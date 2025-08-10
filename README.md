@@ -79,9 +79,9 @@ This repository contains three machine learning projects, each focusing on diffe
 
 | Project             | Model Used              | Accuracy / RMSE Example |
 | ------------------- | ----------------------- | ----------------------- |
-| Price Prediction    | Random Forest Regressor | RMSE ≈ *X.XX*           |
-| Iris Classification | Logistic Regression     | Accuracy ≈ *XX%*        |
-| Sales Prediction    | Decision Tree Regressor | RMSE ≈ *X.XX*           |
+| Price Prediction    | Random Forest Regressor | RMSE ≈ *0.9771*         |
+| Iris Classification | Logistic Regression     | Accuracy ≈ *100%*       |
+| Sales Prediction    | Mean Squared Error      | MSE ≈ *3.7968*          |
 
 ---
 
