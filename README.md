@@ -92,6 +92,3 @@ This repository contains three machine learning projects, each focusing on diffe
 
 
 ---
-
-لو تحب أقدر أضيف صور من الجرافيكس اللي في الـ notebooks عشان الـ README يبقى شكله أقوى على GitHub.
-تحب أعمل النسخة دي بالصور كمان؟
